@@ -1,2 +1,1 @@
-# ml_paper_analyzer
-To analyzer the number of papers accepted to NeurIPS, ICML, and ICLR
+# 第90回人工知能セミナー
